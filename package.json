@@ -203,7 +203,7 @@
     "pm2-sysmonit": "^1.2.8"
   },
   "devDependencies": {
-    "mocha": "^10.8.0",
+    "mocha": "^11.1.0",
     "should": "^13.2.3"
   },
   "bugs": {
